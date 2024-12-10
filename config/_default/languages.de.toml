@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "de"
+languageCode = "de-DE"
 languageName = "Deutsch"
 weight = 1
 title = "Mykola Zotko"
 
 [params]
   displayName = "DE"
-  isoCode = "en"
+  isoCode = "de"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
@@ -19,7 +19,7 @@ title = "Mykola Zotko"
   email = "contact@zotko.dev"
   image = "img/author.jpg"
   imageQuality = 96
-  headline = "Data Scientist | ML Engineer | AI Specialist"
+  headline = "Data Scientist | ML Engineer | KI-Spezialist"
   bio = ""
   links = [
     { email = "mailto:contact@zotko.dev" },

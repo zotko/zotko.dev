@@ -1,0 +1,10 @@
+[[main]]
+ name = "Über"
+ pageRef = "about"
+ weight = 10
+
+ [[footer]]
+  name = "#StandWithUkraine"
+  pageRef = "https://stand-with-ukraine.pp.ua"
+  weight = 10
+ 
