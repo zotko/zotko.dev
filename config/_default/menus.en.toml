@@ -59,8 +59,8 @@
 
 
 [[footer]]
-  name = "#StandWithUkraine"
-  pageRef = "https://stand-with-ukraine.pp.ua"
+  name = "🇺🇦 #StandWithUkraine"
+  url = "https://stand-with-ukraine.pp.ua"
   weight = 10
 
 # [[footer]]

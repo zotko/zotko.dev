@@ -7,3 +7,7 @@
 
 [[imports]]
   path = "github.com/hugomods/icons/vendors/devicons"
+
+[[imports]]
+  path = "github.com/hugomods/icons/vendors/simple-icons"
+  
