@@ -57,7 +57,7 @@ Fitness fit und probiere in der Küche gerne neue Rezepte aus :man_cook:.
 
 ### Entwicklungswerkzeuge
 
-{{< icon "devicons/docker/docker-original" >}}  
+{{< icon "devicons/docker/docker-original" >}} Docker  
 {{< icon "devicons/github/github-original" >}} GitHub  
 {{< icon "devicons/gitlab/gitlab-original" >}} GitLab  
 {{< icon "devicons/git/git-original" >}} Git  
