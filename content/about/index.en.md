@@ -24,6 +24,32 @@ I stay active with :roller_skate: inline skating, :basketball: basketball, and
 :muscle: fitness, and I enjoy experimenting with new recipes in the kitchen
 :man_cook:.
 
+## Community
+
+{{< icon "devicons/stackoverflow/stackoverflow-original" >}} Stack Overflow
+[{{< icon "lucide/external-link" >}}](https://stackoverflow.com/users/8973620/mykola-zotko)
+
+<!-- markdownlint-disable MD033 MD013 -->
+
+<a href="https://stackexchange.com/users/12298896"><img src="https://stackexchange.com/users/flair/12298896.png" width="208" height="58" alt="profile for Mykola Zotko on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Mykola Zotko on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+<!-- markdownlint-enable MD033 MD013 -->
+
+{{< icon "devicons/github/github-original" >}} GitHub
+[{{< icon "lucide/external-link" >}}](https://github.com/zotko)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=zotko)
+
+## Certificates
+
+{{< icon "simple-icons/coursera" >}} Coursera
+[{{< icon "lucide/external-link" >}}](https://www.coursera.org/user/0962004575c9e526d52242f3b7bdc401)  
+{{< icon "simple-icons/rocket" >}}
+Dataquest
+[{{< icon "lucide/external-link" >}}](https://app.dataquest.io/profile/mzotko)  
+{{< icon "simple-icons/datacamp" >}} Datacamp
+[{{< icon "lucide/external-link" >}}](https://www.datacamp.com/portfolio/mzotko)
+
 ## My Go-To Tools
 
 ### Programming Languages
@@ -61,8 +87,3 @@ I stay active with :roller_skate: inline skating, :basketball: basketball, and
 {{< icon "devicons/pycharm/pycharm-original" >}} PyCharm  
 {{< icon "devicons/vscode/vscode-original" >}} VS Code  
 {{< icon "devicons/jupyter/jupyter-original" >}} Jupyter
-
-## Certificates
-
-[{{< icon "simple-icons/coursera" >}} Coursera](https://www.coursera.org/user/0962004575c9e526d52242f3b7bdc401)  
-[{{< icon "simple-icons/rocket" >}} Dataquest](app.dataquest.io/profile/mzotko)
