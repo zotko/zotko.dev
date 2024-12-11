@@ -23,3 +23,41 @@ town near [Frankfurt am Main](https://maps.google.com/maps?q=Fankfurt,Germany).
 I stay active with :roller_skate: inline skating, :basketball: basketball, and
 :muscle: fitness, and I enjoy experimenting with new recipes in the kitchen
 :man_cook:.
+
+## My Go-To Tools
+
+### Programming Languages
+
+{{< icon "devicons/python/python-original" >}} Python
+{{< icon "devicons/r/r-original" >}} R
+{{< icon "devicons/postgresql/postgresql-original" >}} SQL
+{{< icon "devicons/java/java-original" >}} Java
+{{< icon "devicons/scala/scala-original" >}} Scala
+{{< icon "devicons/bash/bash-original" >}} Bash
+
+### Processing & Analysis
+
+{{< icon "devicons/pandas/pandas-original" >}} Pandas
+{{< icon "devicons/numpy/numpy-original" >}} NumPy
+{{< icon "devicons/apache/apache-original" >}} PySpark
+
+### Machine Learning
+
+{{< icon "devicons/tensorflow/tensorflow-original" >}} TensorFlow
+{{< icon "devicons/keras/keras-original" >}} Keras
+{{< icon "devicons/pytorch/pytorch-original" >}} PyTorch
+{{< icon "devicons/scikitlearn/scikitlearn-original" >}} Scikit-learn
+
+### Data Visualization
+
+{{< icon "devicons/matplotlib/matplotlib-original" >}} Matplotlib
+
+### Development Tools
+
+{{< icon "devicons/docker/docker-original" >}} Docker
+{{< icon "devicons/github/github-original" >}} GitHub
+{{< icon "devicons/gitlab/gitlab-original" >}} GitLab
+{{< icon "devicons/git/git-original" >}} Git
+{{< icon "devicons/pycharm/pycharm-original" >}} PyCharm
+{{< icon "devicons/vscode/vscode-original" >}} VS Code
+{{< icon "devicons/jupyter/jupyter-original" >}} Jupyter
