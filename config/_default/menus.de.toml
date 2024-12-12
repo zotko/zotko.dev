@@ -3,6 +3,11 @@
  pageRef = "about"
  weight = 10
 
+[[main]]
+ name = "Projekte"
+ pageRef = "projects"
+ weight = 20
+
  [[footer]]
   name = "🇺🇦 #StandWithUkraine"
   url = "https://stand-with-ukraine.pp.ua"
