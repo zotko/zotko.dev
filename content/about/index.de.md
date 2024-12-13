@@ -81,7 +81,7 @@ Dataquest
 {{< icon "devicons/matplotlib/matplotlib-original" >}} Matplotlib  
 {{< icon "devicons/plotly/plotly-original" >}} Plotly
 
-## Datenbanken
+### Datenbanken
 
 {{< icon "devicons/postgresql/postgresql-original" >}} PostgreSQL  
 {{< icon "devicons/mysql/mysql-original" >}} MySQL
