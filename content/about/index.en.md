@@ -36,9 +36,9 @@ I stay active with :roller_skate: inline skating, :basketball: basketball, and
 <!-- markdownlint-enable MD033 MD013 -->
 
 {{< icon "devicons/github/github-original" >}} GitHub
-[{{< icon "lucide/external-link" >}}](https://github.com/zotko)
+[{{< icon "lucide/external-link" >}}](https://octoprofile.vercel.app/user?id=zotko)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=zotko)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zotko)](https://github.com/zotko)
 
 ## Certificates
 
