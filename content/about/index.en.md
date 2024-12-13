@@ -56,7 +56,6 @@ Dataquest
 
 {{< icon "devicons/python/python-original" >}} Python  
 {{< icon "devicons/r/r-original" >}} R  
-{{< icon "devicons/postgresql/postgresql-original" >}} SQL  
 {{< icon "devicons/java/java-original" >}} Java  
 {{< icon "devicons/scala/scala-original" >}} Scala  
 {{< icon "devicons/bash/bash-original" >}} Bash
@@ -65,7 +64,7 @@ Dataquest
 
 {{< icon "devicons/pandas/pandas-original" >}} Pandas  
 {{< icon "devicons/numpy/numpy-original" >}} NumPy  
-{{< icon "devicons/apache/apache-original" >}} PySpark
+{{< icon "devicons/apachespark/apachespark-original" >}} PySpark
 
 ### Machine Learning
 
@@ -76,7 +75,19 @@ Dataquest
 
 ### Data Visualization
 
-{{< icon "devicons/matplotlib/matplotlib-original" >}} Matplotlib
+{{< icon "devicons/matplotlib/matplotlib-original" >}} Matplotlib  
+{{< icon "devicons/plotly/plotly-original" >}} Plotly
+
+### Databases
+
+{{< icon "devicons/postgresql/postgresql-original" >}} PostgreSQL  
+{{< icon "devicons/mysql/mysql-original" >}} MySQL
+
+### Cloud Services
+
+{{< icon "devicons/amazonwebservices/amazonwebservices-original-wordmark" >}}
+AWS  
+{{< icon "devicons/azure/azure-original" >}} Azure
 
 ### Development Tools
 
