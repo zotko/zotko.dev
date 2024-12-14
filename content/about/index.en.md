@@ -98,17 +98,3 @@ AWS
 {{< icon "devicons/pycharm/pycharm-original" >}} PyCharm  
 {{< icon "devicons/vscode/vscode-original" >}} VS Code  
 {{< icon "devicons/jupyter/jupyter-original" >}} Jupyter
-
-<!-- markdownlint-disable MD026 -->
-
-## Let's Connect!
-
-<!-- markdownlint-enable MD026 -->
-
-I'm always excited to meet new people and exchange ideas :handshake: :bulb:
-
-<!-- markdownlint-disable MD013 -->
-
-{{< figure src="pretzel.webp" alt="A fresh pretzel posing with a laptop, ready to code" >}}
-
-<!-- markdownlint-enable MD013 -->
