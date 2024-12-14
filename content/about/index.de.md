@@ -34,7 +34,7 @@ Fitness fit und probiere in der Küche gerne neue Rezepte aus :man_cook:.
 
 <!-- markdownlint-disable MD033 MD013 -->
 
-<a href="https://stackexchange.com/users/12298896"><img src="https://stackexchange.com/users/flair/12298896.png" width="208" height="58" alt="profile for Mykola Zotko on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Mykola Zotko on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/8973620/mykola-zotko"><img src="https://stackoverflow.com/users/flair/8973620.png" width="208" height="58" alt="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!-- markdownlint-enable MD033 MD013 -->
 
