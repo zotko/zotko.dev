@@ -39,7 +39,7 @@ Fitness fit und probiere in der Küche gerne neue Rezepte aus :man_cook:.
 <!-- markdownlint-enable MD033 MD013 -->
 
 {{< icon "devicons/github/github-original" >}} GitHub
-[{{< icon "lucide/external-link" >}}](https://octoprofile.vercel.app/user?id=zotko)
+[{{< icon "lucide/external-link" >}}](https://github.com/zotko)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zotko&rank=-C,-B,-?&margin-w=15)](https://github.com/zotko)
 
