@@ -24,8 +24,8 @@ Derzeit lebe ich in
 [Wächtersbach](https://maps.google.com/maps?q=Wächtersbach,Germany), einer
 kleinen Stadt in der Nähe von
 [Frankfurt am Main](https://maps.google.com/maps?q=Fankfurt,Germany). Ich halte
-mich mit :roller_skate: Inline-Skating, :basketball: Basketball und :muscle:
-Fitness fit und probiere in der Küche gerne neue Rezepte aus :man_cook:.
+mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
+:weight_lifting: Fitness fit und mache gerne einen guten Kaffee :coffee:.
 
 ## Community
 
@@ -162,7 +162,6 @@ AWS
 {{< icon "devicons/docker/docker-original" >}} Docker  
 {{< icon "devicons/github/github-original" >}} GitHub  
 {{< icon "devicons/gitlab/gitlab-original" >}} GitLab  
-{{< icon "devicons/git/git-original" >}} Git  
 {{< icon "devicons/pycharm/pycharm-original" >}} PyCharm  
 {{< icon "devicons/vscode/vscode-original" >}} VS Code  
 {{< icon "devicons/jupyter/jupyter-original" >}} Jupyter
