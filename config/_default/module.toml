@@ -1,5 +1,5 @@
 [hugoVersion]
-  extended = false
+  extended = true
   min = "0.139.3"
 
 [[imports]]
@@ -13,4 +13,3 @@
 
 [[imports]]
   path = "github.com/hugomods/icons/vendors/lucide"
-  
