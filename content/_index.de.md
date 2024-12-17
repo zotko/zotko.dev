@@ -1,5 +1,6 @@
 +++
-title = ''
+title = "Willkommen auf Mykola Zotkos Website!"
+description = "Data Scientist, ML Engineer und Open-Source-Entwickler. Entdecken Sie meine Projekte und erfahren Sie mehr über mich."
 +++
 
 In der Nähe von Frankfurt am Main, Deutschland.  

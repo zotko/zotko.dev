@@ -1,5 +1,6 @@
 +++
-title = 'Projekte'
+title = "Projekte von Mykola Zotko"
+description = "Data Scientist, ML Engineer und Open-Source-Entwickler. Entdecken Sie Projekte, an denen ich gearbeitet habe."
 +++
 
 ## GitHub
