@@ -1,6 +1,6 @@
 +++
 title = "Welcome to Mykola Zotko's Website!"
-description = "Data Scientist, ML Engineer, and Open-Source Developer. Explore my projects and learn more about me."
+description = "Data Scientist, ML Engineer, and Open Source Developer. Explore my projects, achievements, and get to know me."
 +++
 
 Based near Frankfurt am Main, Germany.  
