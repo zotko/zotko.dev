@@ -1,5 +1,5 @@
 +++
-title = "Projects by Mykola Zotko"
+title = "Projects"
 description = "Data Scientist, ML Engineer, and Open-Source Developer. Explore projects I've worked on."
 +++
 

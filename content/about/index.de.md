@@ -1,5 +1,5 @@
 +++
-Title = "Über Mykola Zotko"
+Title = "Über"
 Description = "Data Scientist, ML Engineer und Open-Source-Entwickler. Entdecken Sie meinen Werdegang und meine Fähigkeiten."
 +++
 
