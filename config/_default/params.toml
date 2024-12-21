@@ -6,7 +6,7 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = false
@@ -139,11 +139,11 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
+  websiteid = "9e23f45d-44de-4cba-80e9-8298f9571644"
   # domain = "llama.yoursite.com"
   # dataDomains = "yoursite.com,yoursite2.com"
   # scriptName = ""
-  # enableTrackEvent = true
+  enableTrackEvent = true
 
 [selineAnalytics]
   # token = "XXXXXX"
