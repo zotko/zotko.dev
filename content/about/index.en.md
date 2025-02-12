@@ -42,6 +42,22 @@ I stay active with :roller_skate: inline skating, :basketball: basketball, and
 
 ## Certificates
 
+{{< icon "simple-icons/amazonwebservices" >}} **Amazon Web Services**
+
+<!-- markdownlint-disable MD013 MD033 -->
+<div
+  data-iframe-width="150"
+  data-iframe-height="270"
+  data-share-badge-id="2efced51-c201-42a5-8e66-1af1c8b4f763"
+  data-share-badge-host="https://www.credly.com">
+</div>
+<script
+  type="text/javascript"
+  async
+  src="//cdn.credly.com/assets/utilities/embed.js">
+</script>
+<!-- markdownlint-enable MD013 MD033 -->
+
 {{< icon "simple-icons/coursera" >}} **Coursera**
 [{{< icon "lucide/external-link" >}}](https://www.coursera.org/user/0962004575c9e526d52242f3b7bdc401)
 
