@@ -99,23 +99,10 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
 <details>
 <summary><small>Mehr...</small></summary>
 
-- Unsupervised Learning in Python
-- Cleaning Data in Python
-- Manipulating DataFrames with pandas
-- Machine Learning with scikit-learn
-- Linear Classifiers in Python
-- Deep Learning with PyTorch
-- Feature Engineering for Machine Learning in Python
-- Introduction to Network Analysis in Python
-- Analyzing Data in Spreadsheets
-- Introduction to Data Visualization with Bokeh
-- Building Web Applications with Shiny in R
-- Case Study: School Budgeting with Machine Learning in Python
-- Image Modeling with Keras
-- Advanced Deep Learning with Keras
-- Spreadsheets Foundations
-- Advanced NLP with spaCy
-- Survival Analysis in Python
+- Associate Data Scientist
+  [{{< icon "lucide/external-link" >}}](https://www.datacamp.com/completed/statement-of-accomplishment/track/dd403db3bb47859a469ab7724c0e379ae55c048d)
+- Data Analyst
+  [{{< icon "lucide/external-link" >}}](https://www.datacamp.com/completed/statement-of-accomplishment/track/f9dafb966e72a0c6936924d3f328e8adc43f4bef)
 
 </details>
 
