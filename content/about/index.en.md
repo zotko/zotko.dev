@@ -45,16 +45,24 @@ I stay active with :roller_skate: inline skating, :basketball: basketball, and
 {{< icon "simple-icons/amazonwebservices" >}} **Amazon Web Services**
 
 <!-- markdownlint-disable MD013 MD033 -->
-<div
-  data-iframe-width="150"
-  data-iframe-height="270"
-  data-share-badge-id="2efced51-c201-42a5-8e66-1af1c8b4f763"
-  data-share-badge-host="https://www.credly.com">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+ <div
+   data-iframe-width="150"
+   data-iframe-height="270"
+   data-share-badge-id="47647fdb-c18f-4257-92ca-c433c123cc15"
+   data-share-badge-host="https://www.credly.com">
+ </div>
+ <div
+   data-iframe-width="150"
+   data-iframe-height="270"
+   data-share-badge-id="04f68a57-30fe-4737-9125-bf729e3d31da"
+   data-share-badge-host="https://www.credly.com">
+ </div>
 </div>
 <script
-  type="text/javascript"
-  async
-  src="//cdn.credly.com/assets/utilities/embed.js">
+ type="text/javascript"
+ async
+ src="//cdn.credly.com/assets/utilities/embed.js">
 </script>
 <!-- markdownlint-enable MD013 MD033 -->
 
