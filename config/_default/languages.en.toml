@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 2
-title = "Mykola Zotko"
+title = "MZ"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "Mykola Zotko"
   dateFormat = "2 January 2006"
   description = "Data Scientist, ML Engineer, and Open-Source Developer. Explore my projects and learn more about me."
 
-  # logo = "img/logo.png"
+  logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
