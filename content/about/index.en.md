@@ -38,7 +38,7 @@ I stay active with :roller_skate: inline skating, :basketball: basketball, and
 {{< icon "devicons/github/github-original" >}} GitHub
 [{{< icon "lucide/external-link" >}}](https://github.com/zotko)
 
-{{< github-trophy username="zotko" rank="-C,-B,-?" marginw="15" >}}
+[![trophy](https://github-profile-trophy.vercel.app/?username=zotko&rank=-C,-B,-?&margin-w=15)](https://github.com/zotko)
 
 ## Certificates
 
