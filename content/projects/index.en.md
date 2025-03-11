@@ -18,6 +18,8 @@ description = "Data Scientist, ML Engineer, and Open-Source Developer. Explore p
   [Difference between pivot and pivot_table: Why is only pivot_table working?](https://stackoverflow.com/a/75579338/8973620)
 - {{< icon "devicons/stackoverflow/stackoverflow-original" >}}
   [Implementing the Bron–Kerbosch algorithm in Python](https://stackoverflow.com/a/59339555/8973620)
+- {{< icon "devicons/stackoverflow/stackoverflow-original" >}}
+  [Adding a new column to a PySpark DataFrame](https://stackoverflow.com/a/65599110/8973620)
 
 Check out my other answers on
 [Stack Overflow](https://stackoverflow.com/users/8973620/mykola-zotko?tab=answers&sort=votes)
