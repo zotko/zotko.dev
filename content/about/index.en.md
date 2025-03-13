@@ -58,6 +58,12 @@ I stay active with :roller_skate: inline skating, :basketball: basketball, and
    data-share-badge-id="04f68a57-30fe-4737-9125-bf729e3d31da"
    data-share-badge-host="https://www.credly.com">
  </div>
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="d0a7fc6f-0b04-4ca8-bcbb-6e4685ec8ea6"
+    data-share-badge-host="https://www.credly.com">
+  </div>
 </div>
 <script
  type="text/javascript"
