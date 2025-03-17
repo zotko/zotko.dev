@@ -35,7 +35,7 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
 
 <!-- markdownlint-disable MD033 MD013 -->
 
-<a href="https://stackoverflow.com/users/8973620/mykola-zotko"><img src="https://stackoverflow.com/users/flair/8973620.png" width="208" height="58" alt="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/8973620/mykola-zotko"><img class="nozoom" src="https://stackoverflow.com/users/flair/8973620.png" width="208" height="58" alt="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!-- markdownlint-enable MD033 MD013 -->
 
