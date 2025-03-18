@@ -12,7 +12,7 @@ you!
 <a href="https://stackoverflow.com/users/8973620/mykola-zotko">
 <img class="nozoom" src="https://img.shields.io/stackexchange/stackoverflow/r/8973620?logo=stackoverflow&logoColor=white"></a>
 <a href="https://github.com/zotko"><img class="nozoom" src="https://img.shields.io/github/stars/zotko"></a>
-<a href="/en/about/#certificates">
+<a href="/en/about/#amazon-web-services">
 <img class="nozoom" src="https://img.shields.io/badge/AWS-certified-%23FF9900?logo=amazonwebservices">
 </p>
 <!-- markdownlint-enable MD013 MD033 MD045 -->

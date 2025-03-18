@@ -46,7 +46,7 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
 
 ## Zertifikate
 
-{{< icon "simple-icons/amazonwebservices" >}} **Amazon Web Services**
+### Amazon Web Services
 
 <!-- markdownlint-disable MD013 MD033 -->
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
@@ -84,11 +84,7 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!-- markdownlint-enable MD013 MD033 -->
 
-{{< icon "simple-icons/coursera" >}} **Coursera**
-[{{< icon "lucide/external-link" >}}](https://www.coursera.org/user/0962004575c9e526d52242f3b7bdc401)
-
-<details>
-<summary><small>Mehr...</small></summary>
+### Coursera
 
 - DeepLearning.AI: Sequences, Time Series and Prediction
   [{{< icon "lucide/external-link" >}}](https://www.coursera.org/account/accomplishments/verify/K6ZZ3SQSXSUM)
@@ -102,13 +98,7 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
   Spaces
   [{{< icon "lucide/external-link" >}}](https://www.coursera.org/account/accomplishments/verify/7TWFVR9SMGHA)
 
-  </details>
-
-{{< icon "simple-icons/rocket" >}} **Dataquest**
-[{{< icon "lucide/external-link" >}}](https://app.dataquest.io/profile/mzotko)
-
-<details>
-<summary><small>Mehr...</small></summary>
+### Dataquest
 
 - Data Scientist in Python
   [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/FMFCSN08KFAMYZ7UQCGW)
@@ -129,20 +119,12 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
 - Data Cleaning with Python
   [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/5ZBJQ6BHKWRSHWW0JMM4)
 
-</details>
-
-{{< icon "simple-icons/datacamp" >}} **Datacamp**
-[{{< icon "lucide/external-link" >}}](https://www.datacamp.com/portfolio/mzotko)
-
-<details>
-<summary><small>Mehr...</small></summary>
+### Datacamp
 
 - Associate Data Scientist
   [{{< icon "lucide/external-link" >}}](https://www.datacamp.com/completed/statement-of-accomplishment/track/dd403db3bb47859a469ab7724c0e379ae55c048d)
 - Data Analyst
   [{{< icon "lucide/external-link" >}}](https://www.datacamp.com/completed/statement-of-accomplishment/track/f9dafb966e72a0c6936924d3f328e8adc43f4bef)
-
-</details>
 
 ## Meine bevorzugten Werkzeuge
 
