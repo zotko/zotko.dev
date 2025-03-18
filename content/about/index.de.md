@@ -62,6 +62,22 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
     data-share-badge-id="04f68a57-30fe-4737-9125-bf729e3d31da"
     data-share-badge-host="https://www.credly.com">
   </div>
+</div>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="3e55440b-9b1b-4ca0-97f7-1d0fcdc82620"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="2cf1b89d-938f-42e1-839d-df11d085c662"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+</div>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <div
     data-iframe-width="150"
     data-iframe-height="270"
@@ -69,11 +85,7 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
     data-share-badge-host="https://www.credly.com">
   </div>
 </div>
-<script
-  type="text/javascript"
-  async
-  src="//cdn.credly.com/assets/utilities/embed.js">
-</script>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!-- markdownlint-enable MD013 MD033 -->
 
 {{< icon "simple-icons/coursera" >}} **Coursera**
