@@ -26,19 +26,25 @@ I stay active with :roller_skate: inline skating, :basketball: basketball, and
 
 ## Community
 
-{{< icon "devicons/stackoverflow/stackoverflow-original" >}} Stack Overflow
-[{{< icon "lucide/external-link" >}}](https://stackoverflow.com/users/8973620/mykola-zotko)
+### Stack Overflow
 
 <!-- markdownlint-disable MD033 MD013 -->
 
-<a href="https://stackoverflow.com/users/8973620/mykola-zotko"><img class="nozoom" src="https://stackoverflow.com/users/flair/8973620.png" width="208" height="58" alt="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/8973620/mykola-zotko">
+  <img class="nozoom" src="https://stackoverflow.com/users/flair/8973620.png" width="208" height="58" alt="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
 
 <!-- markdownlint-enable MD033 MD013 -->
 
-{{< icon "devicons/github/github-original" >}} GitHub
-[{{< icon "lucide/external-link" >}}](https://github.com/zotko)
+### GitHub
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zotko&rank=-C,-B,-?&margin-w=15)
+<!-- markdownlint-disable MD034 -->
+
+{{< figure src="https://github-profile-trophy.vercel.app/?username=zotko&rank=-?&margin-w=5&margin-h=5&column=3"
+    href="https://github.com/zotko"
+    nozoom=true >}}
+
+<!-- markdownlint-enable MD034 -->
 
 ## Certificates
 
