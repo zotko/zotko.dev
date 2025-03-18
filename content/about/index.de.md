@@ -44,7 +44,7 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
 
 <!-- markdownlint-disable MD034 -->
 
-{{< figure src="https://github-profile-trophy.vercel.app/?username=zotko&rank=-?&margin-w=5&margin-h=5&column=3"
+{{< figure src="https://github-profile-trophy.vercel.app/?username=zotko&rank=-C,-?&margin-w=5&margin-h=5&column=3"
     href="https://github.com/zotko"
     nozoom=true >}}
 
