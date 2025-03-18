@@ -3,11 +3,13 @@ title = "Welcome to Mykola Zotko's Website!"
 description = "Data Scientist, ML Engineer, and Open Source Developer. Explore my projects, achievements, and get to know me."
 +++
 
-Based near Frankfurt am Main, Germany.  
+<!-- markdownlint-disable MD013 MD033 MD045 -->
+
+Based near
+[Frankfurt am Main, Germany](https://maps.google.com/maps?q=Fankfurt,Germany).  
 Got an exciting project? :rocket: Let’s bring it to life – I’d love to hear from
 you!
 
-<!-- markdownlint-disable MD013 MD033 MD045 -->
 <p align="center" style="display: flex; justify-content: center; gap: 12px;">
 <a href="https://stackoverflow.com/users/8973620/mykola-zotko">
 <img class="nozoom" src="https://img.shields.io/stackexchange/stackoverflow/r/8973620?logo=stackoverflow&logoColor=white"></a>
