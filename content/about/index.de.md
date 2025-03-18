@@ -65,6 +65,12 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
   <div
     data-iframe-width="150"
     data-iframe-height="270"
+    data-share-badge-id="d0a7fc6f-0b04-4ca8-bcbb-6e4685ec8ea6"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
     data-share-badge-id="3e55440b-9b1b-4ca0-97f7-1d0fcdc82620"
     data-share-badge-host="https://www.credly.com">
   </div>
@@ -72,12 +78,6 @@ mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
     data-iframe-width="150"
     data-iframe-height="270"
     data-share-badge-id="2cf1b89d-938f-42e1-839d-df11d085c662"
-    data-share-badge-host="https://www.credly.com">
-  </div>
-  <div
-    data-iframe-width="150"
-    data-iframe-height="270"
-    data-share-badge-id="d0a7fc6f-0b04-4ca8-bcbb-6e4685ec8ea6"
     data-share-badge-host="https://www.credly.com">
   </div>
 </div>
