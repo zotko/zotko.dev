@@ -58,8 +58,6 @@ I stay active with :roller_skate: inline skating, :basketball: basketball, and
     data-share-badge-id="04f68a57-30fe-4737-9125-bf729e3d31da"
     data-share-badge-host="https://www.credly.com">
   </div>
-</div>
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <div
     data-iframe-width="150"
     data-iframe-height="270"
@@ -72,8 +70,6 @@ I stay active with :roller_skate: inline skating, :basketball: basketball, and
     data-share-badge-id="2cf1b89d-938f-42e1-839d-df11d085c662"
     data-share-badge-host="https://www.credly.com">
   </div>
-</div>
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <div
     data-iframe-width="150"
     data-iframe-height="270"
