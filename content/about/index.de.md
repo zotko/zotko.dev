@@ -1,6 +1,6 @@
 +++
 Title = "Über"
-Description = "Data Scientist, ML Engineer und Open-Source-Entwickler. Entdecken Sie meinen Werdegang und meine Fähigkeiten."
+Description = "ML Engineer und Open-Source-Entwickler. Entdecken Sie meinen Werdegang und meine Fähigkeiten."
 +++
 
 {{< typeit tag=h3 >}} Hallo! {{< /typeit >}}
