@@ -24,3 +24,8 @@ description = "Data Scientist, ML Engineer und Open-Source-Entwickler. Entdecken
 Schauen Sie sich meine anderen Antworten auf
 [{{< icon "devicons/stackoverflow/stackoverflow-original" >}} Stack Overflow](https://stackoverflow.com/users/8973620/mykola-zotko?tab=answers&sort=votes)
 an.
+
+## Kaggle
+
+- {{< icon "devicons/kaggle/kaggle-original" >}}
+  [Predicting Molecular Properties: Silver Medal :2nd_place_medal:](https://www.kaggle.com/competitions/champs-scalar-coupling)
