@@ -10,8 +10,8 @@ title = "MZ"
   rtl = false
   dateFormat = "2 January 2006"
   description = "ML Engineer und Open-Source-Entwickler. Entdecken Sie meine Projekte und erfahren Sie mehr über mich."
-  logo = "img/logo_sunglasses.png"
-  secondaryLogo = "img/logo_smile.png"
+  logo = "img/logo_robot.gif"
+  secondaryLogo = "img/logo_robot.gif"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
