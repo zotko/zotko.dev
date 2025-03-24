@@ -5,15 +5,3 @@ description = "ML Engineer und Open-Source Developer. Entdecken Sie meine Projek
 
 In der Nähe von Frankfurt am Main, Deutschland.  
 Haben Sie ein spannendes Projekt? :rocket: Ich freue mich, von Ihnen zu hören!
-
-<!-- markdownlint-disable MD013 MD033 MD045 -->
-<p align="center" style="display: flex; justify-content: center; gap: 8px;">
-<a href="https://stackoverflow.com/users/8973620/mykola-zotko">
-<img class="nozoom" src="https://img.shields.io/stackexchange/stackoverflow/r/8973620?logo=stackoverflow&logoColor=white"></a>
-<a href="https://github.com/zotko"><img class="nozoom" src="https://img.shields.io/github/stars/zotko"></a>
-<a href="https://stackoverflow.com/search?q=user:8973620+[python]">
-<img class="nozoom" src="https://img.shields.io/badge/python-gold-FFD700?logo=stackoverflow&logoColor=white"></a>
-<a href="/en/about/#amazon-web-services">
-<img class="nozoom" src="https://img.shields.io/badge/AWS-certified-%23FF9900?logo=amazonwebservices">
-</p>
-<!-- markdownlint-enable MD013 MD033 MD045 -->
