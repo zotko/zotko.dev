@@ -5,24 +5,19 @@ Description = "ML Engineer, and Open-Source Developer. Explore my journey and sk
 
 {{< typeit tag=h3 >}} Hey there! {{< /typeit >}}
 
-I was born in :ukraine: Ukraine and have been living in :de: Germany since 2008.
-I earned a Master of Science in Chemistry from Goethe University Frankfurt,
+I was born in :ukraine: Ukraine and have lived in :de: Germany since 2008.  
+I hold a Master of Science in Chemistry 🧪 from Goethe University Frankfurt,
 where I specialized in chemoinformatics for my master’s thesis.
 
-In recent years, my work has focused on predictive maintenance, where I develop
-robust machine learning solutions to enhance system performance and reliability.
-I have extensive expertise in machine learning and data-driven problem-solving,
-with a strong track record of delivering impactful projects.
+I enjoy building and automating things. Beyond coding, I am passionate about
+community engagement and knowledge sharing—supporting others and exchanging
+ideas is a core part of who I am, both professionally and personally.
 
-Beyond my work, I am passionate about community engagement and knowledge
-sharing. Supporting others and exchanging ideas is an integral part of who I am,
-both professionally and personally.
-
-Currently, I reside in
+Currently, I live in
 [Wächtersbach](https://maps.google.com/maps?q=Wächtersbach,Germany), a charming
-town near [Frankfurt am Main](https://maps.google.com/maps?q=Fankfurt,Germany).
-I stay active with :roller_skate: inline skating, :basketball: basketball, and
-:weight_lifting: fitness, and I enjoy making good coffee :coffee:.
+town near [Frankfurt am Main](https://maps.google.com/maps?q=Frankfurt,Germany).
+When I’m not coding, I stay active with various sports, experiment in the
+kitchen, and enjoy brewing a great cup of coffee :coffee:.
 
 ## Community
 

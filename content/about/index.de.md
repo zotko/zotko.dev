@@ -5,28 +5,23 @@ Description = "ML Engineer und Open-Source-Entwickler. Entdecken Sie meinen Werd
 
 {{< typeit tag=h3 >}} Hallo! {{< /typeit >}}
 
-Ich wurde in der :ukraine: Ukraine geboren und lebe seit 2008 in :de:
-Deutschland. Ich habe einen Master of Science in Chemie von der
-Goethe-Universität Frankfurt, wo ich mich in meiner Masterarbeit intensiv mit
-Chemoinformatik beschäftigt habe.
+Ich wurde in :ukraine: der Ukraine geboren und lebe seit 2008 in :de:
+Deutschland.  
+Ich habe einen Master of Science in Chemie 🧪 von der Goethe-Universität
+Frankfurt, wo ich mich in meiner Masterarbeit auf Chemoinformatik spezialisiert
+habe.
 
-In den letzten Jahren habe ich mich auf Predictive Maintenance spezialisiert und
-robuste Machine-Learning-Lösungen entwickelt, um die Systemleistung und
-Zuverlässigkeit zu verbessern. Ich bringe umfassende Erfahrung im Bereich
-Machine Learning mit und habe erfolgreich zahlreiche Projekte umgesetzt, bei
-denen datenbasierte Ansätze im Mittelpunkt standen.
-
-Neben meiner Arbeit engagiere ich mich leidenschaftlich in der Community und
-teile gerne mein Wissen. Andere zu unterstützen und Ideen auszutauschen, ist ein
-zentraler Bestandteil dessen, was mich ausmacht – sowohl beruflich als auch
-persönlich.
+Ich liebe es, Dinge zu bauen und zu automatisieren. Neben dem Programmieren
+engagiere ich mich leidenschaftlich in der Community und teile gerne Wissen –
+andere zu unterstützen und Ideen auszutauschen, ist ein zentraler Teil dessen,
+was mich ausmacht, beruflich wie privat.
 
 Derzeit lebe ich in
 [Wächtersbach](https://maps.google.com/maps?q=Wächtersbach,Germany), einer
 kleinen Stadt in der Nähe von
-[Frankfurt am Main](https://maps.google.com/maps?q=Fankfurt,Germany). Ich halte
-mich mit :roller_skate: Inline-Skating, :basketball: Basketball und
-:weight_lifting: Fitness fit und mache gerne einen guten Kaffee :coffee:.
+[Frankfurt am Main](https://maps.google.com/maps?q=Frankfurt,Germany). Wenn ich
+nicht code, halte ich mich mit verschiedenen Sportarten fit, experimentiere in
+der Küche und genieße einen guten Kaffee :coffee:.
 
 ## Community
 
