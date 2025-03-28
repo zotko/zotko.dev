@@ -71,6 +71,12 @@ der Küche und genieße einen guten Kaffee :coffee:.
   <div
     data-iframe-width="150"
     data-iframe-height="270"
+    data-share-badge-id="11bbdfd4-7b02-41e9-821a-daca350ec386"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
     data-share-badge-id="d0a7fc6f-0b04-4ca8-bcbb-6e4685ec8ea6"
     data-share-badge-host="https://www.credly.com">
   </div>
