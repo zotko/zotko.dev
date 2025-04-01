@@ -29,3 +29,8 @@ Check out my other answers on
 
 - {{< icon "devicons/kaggle/kaggle-original" >}}
   [Predicting Molecular Properties: Silver Medal :2nd_place_medal:](https://www.kaggle.com/competitions/champs-scalar-coupling)
+
+## Research Projects
+
+- 🎓
+  [Master Thesis](https://zotko.github.io/a-star-atom-mapper/master_thesis.pdf)
