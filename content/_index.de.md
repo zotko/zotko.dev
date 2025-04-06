@@ -1,6 +1,6 @@
 +++
 title = "Willkommen auf Mykola Zotkos Website!"
-description = "ML Engineer und Open-Source Developer. Entdecken Sie meine Projekte, Leistungen und lernen Sie mich kennen."
+description = "Mykola Zotko | Data- & KI-Spezialist, ML Engineer und Open-Source-Entwickler"
 +++
 
 In der Nähe von Frankfurt am Main, Deutschland.  

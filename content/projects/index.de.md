@@ -1,6 +1,6 @@
 +++
 title = "Projekte"
-description = "Data Scientist, ML Engineer und Open-Source-Entwickler. Entdecken Sie Projekte, an denen ich gearbeitet habe."
+description = "Mykola Zotko | Data- & KI-Spezialist, ML Engineer und Open-Source-Entwickler"
 +++
 
 ## GitHub
