@@ -142,7 +142,6 @@ kitchen, and enjoy brewing a great cup of coffee :coffee:.
 {{< icon "devicons/java/java-original" >}} Java  
 {{< icon "devicons/javascript/javascript-original" >}} Javascript  
 {{< icon "devicons/scala/scala-original" >}} Scala  
-{{< icon "devicons/bash/bash-original" >}} Bash  
 {{< icon "devicons/r/r-original" >}} R
 
 ### Processing & Analysis
@@ -166,6 +165,7 @@ kitchen, and enjoy brewing a great cup of coffee :coffee:.
 
 ### Databases
 
+{{< icon "devicons/mongodb/mongodb-original" >}} MongoDB  
 {{< icon "devicons/postgresql/postgresql-original" >}} PostgreSQL  
 {{< icon "devicons/mysql/mysql-original" >}} MySQL
 
