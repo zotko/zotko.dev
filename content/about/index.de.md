@@ -169,7 +169,7 @@ der Küche und genieße einen guten Kaffee :coffee:.
 
 ### Datenbanken
 
-{{< icon "devicons/mongodb/mongodb-original" >}} MongoDB  
+{{< icon "devicons/dynamodb/dynamodb-original" >}} DynamoDB  
 {{< icon "devicons/postgresql/postgresql-original" >}} PostgreSQL  
 {{< icon "devicons/mysql/mysql-original" >}} MySQL
 
@@ -178,16 +178,24 @@ der Küche und genieße einen guten Kaffee :coffee:.
 {{< icon "devicons/amazonwebservices/amazonwebservices-original-wordmark" >}}
 AWS  
 {{< icon "devicons/azure/azure-original" >}} Azure  
-{{< icon "devicons/googlecloud/googlecloud-original" >}} GCP
+{{< icon "devicons/googlecloud/googlecloud-original" >}} GCP  
+{{< icon "devicons/cloudflare/cloudflare-original" >}} Cloudflare
 
 ### Entwicklungswerkzeuge
 
+{{< icon "devicons/linux/linux-original" >}} Linux  
 {{< icon "devicons/docker/docker-original" >}} Docker  
 {{< icon "devicons/kubernetes/kubernetes-original" >}} Kubernetes  
+{{< icon "devicons/jenkins/jenkins-original" >}} Jenkins  
 {{< icon "devicons/fastapi/fastapi-original" >}} FastAPI  
+{{< icon "devicons/streamlit/streamlit-original" >}} Streamlit  
+{{< icon "devicons/pypi/pypi-original" >}} PyPI  
 {{< icon "devicons/github/github-original" >}} GitHub  
 {{< icon "devicons/gitlab/gitlab-original" >}} GitLab  
+{{< icon "devicons/gitlab/gitlab-original" >}} GitLab
 {{< icon "devicons/pycharm/pycharm-original" >}} PyCharm  
+{{< icon "devicons/datagrip/datagrip-original" >}} DataGrip  
 {{< icon "devicons/vscode/vscode-original" >}} VS Code  
 {{< icon "devicons/jupyter/jupyter-original" >}} Jupyter  
-{{< icon "devicons/anaconda/anaconda-original" >}} Anaconda
+{{< icon "devicons/anaconda/anaconda-original" >}} Anaconda  
+{{< icon "devicons/confluence/confluence-original" >}} Confluence
