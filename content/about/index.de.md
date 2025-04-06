@@ -143,16 +143,18 @@ der Küche und genieße einen guten Kaffee :coffee:.
 ### Programmiersprachen
 
 {{< icon "devicons/python/python-original" >}} Python  
-{{< icon "devicons/r/r-original" >}} R  
 {{< icon "devicons/java/java-original" >}} Java  
+{{< icon "devicons/javascript/javascript-original" >}} Javascript  
 {{< icon "devicons/scala/scala-original" >}} Scala  
-{{< icon "devicons/bash/bash-original" >}} Bash
+{{< icon "devicons/bash/bash-original" >}} Bash  
+{{< icon "devicons/r/r-original" >}} R
 
 ### Datenverarbeitung & Analyse
 
 {{< icon "devicons/pandas/pandas-original" >}} Pandas  
 {{< icon "devicons/numpy/numpy-original" >}} NumPy  
-{{< icon "devicons/apachespark/apachespark-original" >}} PySpark
+{{< icon "devicons/apachespark/apachespark-original" >}} PySpark  
+{{< icon "devicons/apacheairflow/apacheairflow-original" >}} Airflow
 
 ### Machine Learning
 
@@ -175,13 +177,18 @@ der Küche und genieße einen guten Kaffee :coffee:.
 
 {{< icon "devicons/amazonwebservices/amazonwebservices-original-wordmark" >}}
 AWS  
-{{< icon "devicons/azure/azure-original" >}} Azure
+{{< icon "devicons/azure/azure-original" >}} Azure  
+{{< icon "devicons/googlecloud/googlecloud-original" >}} GCP
 
 ### Entwicklungswerkzeuge
 
 {{< icon "devicons/docker/docker-original" >}} Docker  
+{{< icon "devicons/kubernetes/kubernetes-original" >}} Kubernetes  
+{{< icon "devicons/fastapi/fastapi-original" >}} FastAPI  
+{{< icon "devicons/streamlit/streamlit-original" >}} Streamlit  
 {{< icon "devicons/github/github-original" >}} GitHub  
 {{< icon "devicons/gitlab/gitlab-original" >}} GitLab  
 {{< icon "devicons/pycharm/pycharm-original" >}} PyCharm  
 {{< icon "devicons/vscode/vscode-original" >}} VS Code  
-{{< icon "devicons/jupyter/jupyter-original" >}} Jupyter
+{{< icon "devicons/jupyter/jupyter-original" >}} Jupyter  
+{{< icon "devicons/anaconda/anaconda-original" >}} Anaconda
