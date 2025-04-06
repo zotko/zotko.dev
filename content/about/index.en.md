@@ -181,7 +181,6 @@ AWS
 {{< icon "devicons/docker/docker-original" >}} Docker  
 {{< icon "devicons/kubernetes/kubernetes-original" >}} Kubernetes  
 {{< icon "devicons/fastapi/fastapi-original" >}} FastAPI  
-{{< icon "devicons/streamlit/streamlit-original" >}} Streamlit  
 {{< icon "devicons/github/github-original" >}} GitHub  
 {{< icon "devicons/gitlab/gitlab-original" >}} GitLab  
 {{< icon "devicons/pycharm/pycharm-original" >}} PyCharm  
