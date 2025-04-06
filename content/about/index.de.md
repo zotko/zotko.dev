@@ -162,6 +162,12 @@ der Küche und genieße einen guten Kaffee :coffee:.
 {{< icon "devicons/pytorch/pytorch-original" >}} PyTorch  
 {{< icon "devicons/scikitlearn/scikitlearn-original" >}} Scikit-learn
 
+### KI & LLM
+
+{{< icon "simple-icons/langchain" >}} Langchain  
+{{< icon "simple-icons/claude" >}} Claude  
+:hugs: Hugging Face
+
 ### Datenvisualisierung
 
 {{< icon "devicons/matplotlib/matplotlib-original" >}} Matplotlib  

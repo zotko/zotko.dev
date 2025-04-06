@@ -158,6 +158,12 @@ kitchen, and enjoy brewing a great cup of coffee :coffee:.
 {{< icon "devicons/pytorch/pytorch-original" >}} PyTorch  
 {{< icon "devicons/scikitlearn/scikitlearn-original" >}} Scikit-learn
 
+### AI & LLM
+
+{{< icon "simple-icons/langchain" >}} Langchain  
+{{< icon "simple-icons/claude" >}} Claude  
+:hugs: Hugging Face
+
 ### Data Visualization
 
 {{< icon "devicons/matplotlib/matplotlib-original" >}} Matplotlib  
