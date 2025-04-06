@@ -191,5 +191,3 @@ AWS
 {{< icon "devicons/vscode/vscode-original" >}} VS Code  
 {{< icon "devicons/jupyter/jupyter-original" >}} Jupyter  
 {{< icon "devicons/anaconda/anaconda-original" >}} Anaconda
-
-Hallo, Mykola
