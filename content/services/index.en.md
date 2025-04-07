@@ -1,53 +1,96 @@
 +++
 title = "Services"
-description = "Data science and machine learning expertise through mentorship, workshops, and consulting. Python development, ML solutions, and technical guidance."
+description = "Mykola Zotko | Data & AI Specialist, ML Engineer, and Open Source Developer"
 +++
 
-## Consulting
+## 🐍 Python Development
 
-I bring my scientific background and technical expertise to help your
-organization harness the power of data science. Having built successful systems
-from scratch, I know how to navigate technical challenges while delivering
-business value.
+### Web Application Development
 
-How I can help:
+- Scalable, high-performance web apps
+- RESTful API development for seamless system integration
 
-- I'll review your data processes and identify practical optimization
-  opportunities
-- Together, we'll develop custom solutions that solve your data challenges
-- I'll help create a realistic roadmap for your data and ML initiatives
-- I'll provide technical architecture insights and implementation guidance
+### Backend & Automation Solutions
 
-## Workshops
+- Secure database integration and user authentication systems
+- Business process automation and custom CLI tools
+- Design of modular, scalable backend architecture
 
-My workshops are not theoretical lectures – they're hands-on sessions where we
-tackle your real-world challenges. I bring my experience from building
-production systems and apply these insights directly to the problems you're
-facing today. Each workshop is designed to help you overcome your specific
-technical obstacles with proven, practical solutions.
+### System Modernization
 
-What you'll learn:
+- Migration of legacy codebases to modern Python versions
+- Refactoring and optimization for improved performance and maintainability
 
-- Solid fundamentals of Python programming and development
-- Techniques for transforming messy data into valuable insights
-- Feature engineering and ML model optimization
-- Problem-solving approaches from real industry cases
-- Principles of writing clean and maintainable code
-- Leveraging AI tools to enhance your development process
+---
 
-## Mentorship
+## 🤖 AI & Machine Learning
 
-Having successfully transitioned from chemistry to data science, I deeply
-understand the challenges of breaking into tech without a traditional CS
-background. I've walked this path myself and know exactly what it takes to
-succeed. My mentorship program provides structured guidance that I wish I had
-when I started my journey.
+### ML Model Development & Integration
 
-What makes my mentorship unique:
+- Custom machine learning models using TensorFlow, PyTorch, and scikit-learn
+- End-to-end ML pipelines and API deployment for production environments
 
-- 17,000+ Stack Overflow reputation and Python Gold Badge
-- Battle-tested strategies from my successful transition into the German tech
-- Hands-on support with real projects, using my production experience
-- Practical insights into German tech culture and industry expectations
-- Personalized roadmap for courses and certifications to advance your skills
-- Interview preparation and resume crafting
+### Applied AI for Business
+
+- Integration of AI into existing tools and workflows
+- Customization and optimization of pre-trained models for specific use cases
+
+### Computer Vision & NLP
+
+- Image classification, object detection, and visual analytics
+- Natural Language Processing (NLP) for text summarization, sentiment analysis,
+  and chatbot solutions
+
+### Intelligent Decision Systems
+
+- Recommendation engines and personalization tools
+- Predictive analytics and pattern recognition to support strategic decisions
+
+---
+
+## 📊 Data Science & Analytics
+
+### Data Engineering & Pipeline Architecture
+
+- Design and implementation of robust ETL workflows
+- Automation of data ingestion and processing for real-time and batch pipelines
+
+### Data Visualization & Business Intelligence
+
+- Interactive dashboards using Plotly, Streamlit, or Dash
+- Custom reporting solutions, KPI tracking, and business insights
+
+### Big Data Processing
+
+- High-volume data handling with PySpark and distributed systems
+- Scalable architecture for efficient data transformation and storage
+
+### Strategic Data Science
+
+- Advanced analytics for trend identification and decision support
+- Predictive modeling for operational and customer insights
+
+---
+
+## ☁️ Cloud & DevOps
+
+### Cloud Infrastructure & Services
+
+- Deployment and scaling on AWS, Google Cloud Platform, and Azure
+- Serverless architectures, flexible container solutions, and scalable storage
+  options for cloud-native applications
+
+### DevOps & Automation
+
+- CI/CD pipeline development for automated testing and deployment
+- Infrastructure as Code with Terraform for consistent cloud environments
+
+### Containerization & Orchestration
+
+- Docker-based environments for reliable, portable deployments
+- Kubernetes orchestration for high-availability systems
+
+### Workflow Orchestration
+
+- Pipeline automation for efficiency enhancement and process optimization
+- Scheduling, monitoring, and managing data and infrastructure workflows

@@ -1,55 +1,100 @@
 +++
 title = "Leistungen"
-description = "Data Science und Machine Learning Expertise durch Mentoring, Workshops und Beratung. Python-Entwicklung, ML-Lösungen und technische Begleitung."
+description = "Mykola Zotko | Data- & KI-Spezialist, ML Engineer und Open-Source-Entwickler"
 +++
 
-## Beratung
+## 🐍 Python-Entwicklung
 
-Mit meinem wissenschaftlichen Hintergrund und technischer Expertise unterstütze
-ich Ihr Unternehmen dabei, das volle Potenzial von Data Science zu erschließen.
-Durch meine Erfahrung in der Entwicklung und dem Aufbau produktiver Machine
-Learning Lösungen weiß ich, wie man technische Herausforderungen meistert und
-dabei geschäftlichen Mehrwert schafft.
+### Webanwendungsentwicklung
 
-Mein Angebot:
+- Skalierbare, leistungsstarke Webanwendungen
+- Entwicklung von RESTful APIs für nahtlose Systemintegration
 
-- Analyse Ihrer Datenprozesse und Aufzeigen konkreter Optimierungsmöglichkeiten
-- Entwicklung passgenauer Lösungen für Ihre spezifischen Datenanforderungen
-- Ausarbeitung eines konkreten Fahrplans für Ihre Data Science und ML-Projekte
-- Beratung zur Daten- und ML-Architektur und Unterstützung bei der Umsetzung
+### Backend- & Automatisierungslösungen
 
-## Workshops
+- Sichere Datenbankanbindung und User-Authentifizierung
+- Automatisierung von Geschäftsprozessen und individuelle CLI-Tools
+- Design modularer, skalierbarer Backend-Architekturen
 
-In meinen Workshops geht es nicht um Theorie, sondern ums konkrete Anpacken
-Ihrer praktischen Herausforderungen. Meine Erfahrung aus der Entwicklung von
-Produktivsystemen nutze ich direkt für Ihre aktuellen Probleme. Mit bewährten
-Lösungsansätzen unterstütze ich Sie dabei, Ihre technischen Hürden zu
-überwinden.
+### Systemmodernisierung
 
-Das vermittle ich:
+- Migration von Legacy-Codebases auf moderne Python-Versionen
+- Refactoring und Optimierung für bessere Performance und Wartbarkeit
 
-- Fundierte Grundlagen der Python-Programmierung und -Entwicklung
-- Methoden zur Umwandlung unstrukturierter Daten in wertvolle Erkenntnisse
-- Feature Engineering und Optimierung von ML-Modellen
-- Praxiserprobte Problemlösungsstrategien aus der Industrie
-- Grundsätze für wartbaren und sauberen Code
-- Effektiver Einsatz von KI-Tools im Entwicklungsprozess
+---
 
-## Mentoring
+## 🤖 KI & Machine Learning
 
-Als Quereinsteiger, der erfolgreich von der Chemie in die Data Science
-gewechselt ist, kenne ich die Herausforderungen des Technologie-Einstiegs ohne
-klassischen Informatik-Hintergrund aus erster Hand. Ich habe diesen Weg selbst
-beschritten und weiß genau, worauf es ankommt. Mein Mentoring-Programm bietet
-die strukturierte Begleitung, die ich mir damals selbst gewünscht hätte.
+### ML-Modellentwicklung & Integration
 
-Das macht mein Mentoring besonders:
+- Individuelle Machine-Learning-Modelle mit TensorFlow, PyTorch und scikit-learn
+- End-to-End ML-Pipelines und Bereitstellung von APIs für Produktionsumgebungen
 
-- Über 17.000 Stack Overflow Reputation und Python Gold Badge
-- Praxiserprobte Strategien aus meinem erfolgreichen Quereinstieg in die
-  deutsche Tech-Branche
-- Praktische Unterstützung bei echten Projekten, basierend auf meiner
-  Berufserfahrung
-- Einblicke in die deutsche Tech-Kultur und Branchenerwartungen
-- Individueller Entwicklungsplan für Kurse und Zertifizierungen
-- Bewerbungsvorbereitung und Lebenslauf-Optimierung
+### KI-Anwendungen im Unternehmen
+
+- Integration von KI in bestehende Tools und Workflows
+- Anpassung und Optimierung von vortrainierten Modellen für spezifische
+  Anwendungsfälle
+
+### Computer Vision & NLP
+
+- Image Classification, Object Detection und visuelle Analysen
+- Natural Language Processing (NLP) für Textzusammenfassungen, Sentiment
+  Analysis und Chatbots
+
+### Intelligente Entscheidungsunterstützung
+
+- Recommendation Engines und Personalisierungstools
+- Predictive Analytics und Pattern Recognition zur strategischen
+  Entscheidungsfindung
+
+---
+
+## 📊 Data Science & Analytics
+
+### Data Engineering & Pipeline-Architektur
+
+- Design und Umsetzung robuster ETL-Workflows
+- Automatisierung der Datenaufnahme und -verarbeitung für Realtime- und
+  Batch-Pipelines
+
+### Datenvisualisierung & Business Intelligence
+
+- Interaktive Dashboards mit Plotly, Streamlit oder Dash
+- Individuelle Reporting-Lösungen, KPI-Tracking und Business Insights
+
+### Big Data Verarbeitung
+
+- Verarbeitung großer Datenmengen mit PySpark und verteilten Systemen
+- Skalierbare Architektur für effiziente Daten-Transformation und -Speicherung
+
+### Strategische Data Science
+
+- Fortgeschrittene Analysen zur Trendidentifikation und
+  Entscheidungsunterstützung
+- Predictive Modeling für operative und kundenbezogene Einblicke
+
+---
+
+## ☁️ Cloud & DevOps
+
+### Cloud-Infrastruktur & Services
+
+- Deployment und Skalierung auf AWS, Google Cloud Platform und Azure
+- Serverlose Architekturen, flexible Container-Lösungen und skalierbare
+  Speicheroptionen für cloud-native Anwendungen
+
+### DevOps & Automatisierung
+
+- Aufbau von CI/CD-Pipelines für automatisiertes Testing und Deployment
+- Infrastructure as Code mit Terraform für konsistente Cloud-Umgebungen
+
+### Containerisierung & Orchestrierung
+
+- Zuverlässige, portable Deployments mit Docker
+- Kubernetes-Orchestrierung für hochverfügbare Systeme
+
+### Workflow-Orchestrierung
+
+- Automatisierung von Pipelines zur Effizienzsteigerung und Prozessoptimierung
+- Planung, Überwachung und Management von Daten- und Infrastruktur-Workflows
