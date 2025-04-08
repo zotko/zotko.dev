@@ -94,3 +94,24 @@ description = "Mykola Zotko | Data & AI Specialist, ML Engineer, and Open Source
 
 - Migration of legacy codebases to modern Python versions
 - Refactoring and optimization for improved performance and maintainability
+
+---
+
+## What My Clients Say
+
+![feedback](img.png)
+
+> Mykola immediately understood the requirements for this contract and was able
+> to produce a proof of concept solution in only 2 hours (prior to posting this
+> contract, a junior data scientist had spent almost 2 weeks to get the same
+> result). His grasp on the short and long term requirements of the larger
+> project that this contract is attached to were perfect and he has already
+> given us ideas for future enhancements to the application using machine
+> learning. Furthermore, his comprehension of statistics and his ability to
+> apply modern tools, libraries and programming to completing this initial
+> contract is at well above the industry standard. As both a programmer and
+> project manager, I can personally state that his code was well written,
+> included comments and was trivial to adapt to our existing codebase. We will
+> absolutely continue using Mykola's services for all future development on the
+> larger application and I can happily recommend him to anyone looking for help
+> on any system that requires a talented data scientist.

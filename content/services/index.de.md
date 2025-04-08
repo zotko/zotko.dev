@@ -98,3 +98,24 @@ description = "Mykola Zotko | Data- & KI-Spezialist, ML Engineer und Open-Source
 
 - Migration von Legacy-Codebases auf moderne Python-Versionen
 - Refactoring und Optimierung für bessere Performance und Wartbarkeit
+
+## Was meine Kunden sagen
+
+![feedback](img.png)
+
+> Mykola hat die Anforderungen für dieses Projekt sofort verstanden und konnte
+> in nur 2 Stunden eine funktionsfähige Lösung liefern (vor der Ausschreibung
+> dieses Projekts hatte ein Junior Data Scientist fast 2 Wochen gebraucht, um
+> das gleiche Ergebnis zu erzielen). Sein Verständnis für die kurz- und
+> langfristigen Anforderungen des größeren Projekts, an das dieses Projekt
+> gebunden ist, war perfekt und er hat uns bereits Ideen für zukünftige
+> Verbesserungen der Anwendung unter Verwendung von maschinellem Lernen gegeben.
+> Darüber hinaus ist sein Verständnis für Statistik und seine Fähigkeit, moderne
+> Tools, Bibliotheken und Programmierung anzuwenden, um dieses anfängliche
+> Projekt abzuschließen, weit über dem Branchendurchschnitt. Sowohl als
+> Programmierer als auch als Projektmanager kann ich persönlich bestätigen, dass
+> sein Code gut geschrieben, kommentiert und problemlos an unseren bestehenden
+> Code angepasst werden konnte. Wir werden definitiv weiterhin Mykolas
+> Dienstleistungen für alle zukünftigen Entwicklungen der größeren Anwendung
+> nutzen und ich kann ihn jedem empfehlen, der Hilfe bei Systemen benötigt, die
+> einen talentierten Data Scientist erfordern.
