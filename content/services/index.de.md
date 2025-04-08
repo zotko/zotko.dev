@@ -5,99 +5,93 @@ description = "Mykola Zotko | Data- & KI-Spezialist, ML Engineer und Open-Source
 
 ## 🤖 KI & Machine Learning
 
-### ML-Modellentwicklung & Integration
+- **ML-Modellentwicklung & Integration**
 
-- Individuelle Machine-Learning-Modelle mit TensorFlow, PyTorch und scikit-learn
-- End-to-End ML-Pipelines und Bereitstellung von APIs für Produktionsumgebungen
+  - Individuelle Machine-Learning-Modelle mit TensorFlow, PyTorch und
+    scikit-learn
+  - End-to-End ML-Pipelines und Bereitstellung von APIs für
+    Produktionsumgebungen
 
-### KI-Anwendungen im Unternehmen
+- **KI-Anwendungen im Unternehmen**
 
-- Integration von KI in bestehende Tools und Workflows
-- Anpassung und Optimierung von vortrainierten Modellen für spezifische
-  Anwendungsfälle
+  - Integration von KI in bestehende Tools und Workflows
+  - Anpassung und Optimierung von vortrainierten Modellen für spezifische
+    Anwendungsfälle
 
-### Computer Vision & NLP
+- **Computer Vision & NLP**
 
-- Image Classification, Object Detection und visuelle Analysen
-- Natural Language Processing (NLP) für Textzusammenfassungen, Sentiment
-  Analysis und Chatbots
+  - Image Classification, Object Detection und visuelle Analysen
+  - Natural Language Processing (NLP) für Textzusammenfassungen, Sentiment
+    Analysis und Chatbots
 
-### Intelligente Entscheidungsunterstützung
-
-- Recommendation Engines und Personalisierungstools
-- Predictive Analytics und Pattern Recognition zur strategischen
-  Entscheidungsfindung
-
----
+- **Intelligente Entscheidungsunterstützung**
+  - Recommendation Engines und Personalisierungstools
+  - Predictive Analytics und Pattern Recognition zur strategischen
+    Entscheidungsfindung
 
 ## 📊 Data Science & Analytics
 
-### Data Engineering & Pipeline-Architektur
+- **Data Engineering & Pipeline-Architektur**
 
-- Design und Umsetzung robuster ETL-Workflows
-- Automatisierung der Datenaufnahme und -verarbeitung für Realtime- und
-  Batch-Pipelines
+  - Design und Umsetzung robuster ETL-Workflows
+  - Automatisierung der Datenaufnahme und -verarbeitung für Realtime- und
+    Batch-Pipelines
 
-### Datenvisualisierung & Business Intelligence
+- **Datenvisualisierung & Business Intelligence**
 
-- Interaktive Dashboards mit Plotly, Streamlit oder Dash
-- Individuelle Reporting-Lösungen, KPI-Tracking und Business Insights
+  - Interaktive Dashboards mit Plotly, Streamlit oder Dash
+  - Individuelle Reporting-Lösungen, KPI-Tracking und Business Insights
 
-### Big Data Verarbeitung
+- **Big Data Verarbeitung**
 
-- Verarbeitung großer Datenmengen mit PySpark und verteilten Systemen
-- Skalierbare Architektur für effiziente Daten-Transformation und -Speicherung
+  - Verarbeitung großer Datenmengen mit PySpark und verteilten Systemen
+  - Skalierbare Architektur für effiziente Daten-Transformation und -Speicherung
 
-### Strategische Data Science
-
-- Fortgeschrittene Analysen zur Trendidentifikation und
-  Entscheidungsunterstützung
-- Predictive Modeling für operative und kundenbezogene Einblicke
-
----
+- **Strategische Data Science**
+  - Fortgeschrittene Analysen zur Trendidentifikation und
+    Entscheidungsunterstützung
+  - Predictive Modeling für operative und kundenbezogene Einblicke
 
 ## ☁️ Cloud & DevOps
 
-### Cloud-Infrastruktur & Services
+- **Cloud-Infrastruktur & Services**
 
-- Deployment und Skalierung auf AWS, Google Cloud Platform und Azure
-- Serverlose Architekturen, flexible Container-Lösungen und skalierbare
-  Speicheroptionen für cloud-native Anwendungen
+  - Deployment und Skalierung auf AWS, Google Cloud Platform und Azure
+  - Serverlose Architekturen, flexible Container-Lösungen und skalierbare
+    Speicheroptionen für cloud-native Anwendungen
 
-### DevOps & Automatisierung
+- **DevOps & Automatisierung**
 
-- Aufbau von CI/CD-Pipelines für automatisiertes Testing und Deployment
-- Infrastructure as Code mit Terraform für konsistente Cloud-Umgebungen
+  - Aufbau von CI/CD-Pipelines für automatisiertes Testing und Deployment
+  - Infrastructure as Code mit Terraform für konsistente Cloud-Umgebungen
 
-### Containerisierung & Orchestrierung
+- **Containerisierung & Orchestrierung**
 
-- Zuverlässige, portable Deployments mit Docker
-- Kubernetes-Orchestrierung für hochverfügbare Systeme
+  - Zuverlässige, portable Deployments mit Docker
+  - Kubernetes-Orchestrierung für hochverfügbare Systeme
 
-### Workflow-Orchestrierung
-
-- Automatisierung von Pipelines zur Effizienzsteigerung und Prozessoptimierung
-- Planung, Überwachung und Management von Daten- und Infrastruktur-Workflows
-
----
+- **Workflow-Orchestrierung**
+  - Automatisierung von Pipelines zur Effizienzsteigerung und Prozessoptimierung
+  - Planung, Überwachung und Management von Daten- und Infrastruktur-Workflows
 
 ## 🐍 Python-Entwicklung
 
-### Webanwendungsentwicklung
+- **Webanwendungsentwicklung**
 
-- Entwicklung skalierbarer, interaktiver und reaktionsschneller Webanwendungen
-- Entwicklung von RESTful APIs für nahtlose Systemintegration
+  - Entwicklung skalierbarer, interaktiver und reaktionsschneller Webanwendungen
+  - Entwicklung von RESTful APIs für nahtlose Systemintegration
 
-### Backend- & Automatisierungslösungen
+- **Backend- & Automatisierungslösungen**
 
-- Sichere Datenbankanbindung und User-Authentifizierung
-- Automatisierung von Geschäftsprozessen und individuelle CLI-Tools
-- Design modularer, skalierbarer Backend-Architekturen
+  - Sichere Datenbankanbindung und User-Authentifizierung
+  - Automatisierung von Geschäftsprozessen und individuelle CLI-Tools
+  - Design modularer, skalierbarer Backend-Architekturen
 
-### Systemmodernisierung
+- **Systemmodernisierung**
+  - Migration von Legacy-Codebases auf moderne Python-Versionen
+  - Refactoring und Optimierung für bessere Performance und Wartbarkeit
 
-- Migration von Legacy-Codebases auf moderne Python-Versionen
-- Refactoring und Optimierung für bessere Performance und Wartbarkeit
+---
 
 ## Was meine Kunden sagen
 
