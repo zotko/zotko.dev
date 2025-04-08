@@ -3,26 +3,6 @@ title = "Services"
 description = "Mykola Zotko | Data & AI Specialist, ML Engineer, and Open Source Developer"
 +++
 
-## 🐍 Python Development
-
-### Web Application Development
-
-- Scalable, high-performance web apps
-- RESTful API development for seamless system integration
-
-### Backend & Automation Solutions
-
-- Secure database integration and user authentication systems
-- Business process automation and custom CLI tools
-- Design of modular, scalable backend architecture
-
-### System Modernization
-
-- Migration of legacy codebases to modern Python versions
-- Refactoring and optimization for improved performance and maintainability
-
----
-
 ## 🤖 AI & Machine Learning
 
 ### ML Model Development & Integration
@@ -94,3 +74,23 @@ description = "Mykola Zotko | Data & AI Specialist, ML Engineer, and Open Source
 
 - Pipeline automation for efficiency enhancement and process optimization
 - Scheduling, monitoring, and managing data and infrastructure workflows
+
+---
+
+## 🐍 Python Development
+
+### Web Application Development
+
+- Building scalable, interactive, and responsive web applications
+- RESTful API development for seamless system integration
+
+### Backend & Automation Solutions
+
+- Secure database integration and user authentication systems
+- Business process automation and custom CLI tools
+- Design of modular, scalable backend architecture
+
+### System Modernization
+
+- Migration of legacy codebases to modern Python versions
+- Refactoring and optimization for improved performance and maintainability

@@ -3,26 +3,6 @@ title = "Leistungen"
 description = "Mykola Zotko | Data- & KI-Spezialist, ML Engineer und Open-Source-Entwickler"
 +++
 
-## 🐍 Python-Entwicklung
-
-### Webanwendungsentwicklung
-
-- Skalierbare, leistungsstarke Webanwendungen
-- Entwicklung von RESTful APIs für nahtlose Systemintegration
-
-### Backend- & Automatisierungslösungen
-
-- Sichere Datenbankanbindung und User-Authentifizierung
-- Automatisierung von Geschäftsprozessen und individuelle CLI-Tools
-- Design modularer, skalierbarer Backend-Architekturen
-
-### Systemmodernisierung
-
-- Migration von Legacy-Codebases auf moderne Python-Versionen
-- Refactoring und Optimierung für bessere Performance und Wartbarkeit
-
----
-
 ## 🤖 KI & Machine Learning
 
 ### ML-Modellentwicklung & Integration
@@ -98,3 +78,23 @@ description = "Mykola Zotko | Data- & KI-Spezialist, ML Engineer und Open-Source
 
 - Automatisierung von Pipelines zur Effizienzsteigerung und Prozessoptimierung
 - Planung, Überwachung und Management von Daten- und Infrastruktur-Workflows
+
+---
+
+## 🐍 Python-Entwicklung
+
+### Webanwendungsentwicklung
+
+- Entwicklung skalierbarer, interaktiver und reaktionsschneller Webanwendungen
+- Entwicklung von RESTful APIs für nahtlose Systemintegration
+
+### Backend- & Automatisierungslösungen
+
+- Sichere Datenbankanbindung und User-Authentifizierung
+- Automatisierung von Geschäftsprozessen und individuelle CLI-Tools
+- Design modularer, skalierbarer Backend-Architekturen
+
+### Systemmodernisierung
+
+- Migration von Legacy-Codebases auf moderne Python-Versionen
+- Refactoring und Optimierung für bessere Performance und Wartbarkeit
