@@ -93,7 +93,7 @@ description = "Mykola Zotko | Data- & KI-Spezialist, ML Engineer und Open-Source
 
 ---
 
-## Was meine Kunden sagen
+<!-- ## Was meine Kunden sagen
 
 ![feedback](img.png)
 
@@ -112,4 +112,4 @@ description = "Mykola Zotko | Data- & KI-Spezialist, ML Engineer und Open-Source
 > Code angepasst werden konnte. Wir werden definitiv weiterhin Mykolas
 > Dienstleistungen für alle zukünftigen Entwicklungen der größeren Anwendung
 > nutzen und ich kann ihn jedem empfehlen, der Hilfe bei Systemen benötigt, die
-> einen talentierten Data Scientist erfordern.
+> einen talentierten Data Scientist erfordern. -->

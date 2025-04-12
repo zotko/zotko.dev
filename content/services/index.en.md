@@ -88,7 +88,7 @@ description = "Mykola Zotko | Data & AI Specialist, ML Engineer, and Open Source
 
 ---
 
-## What My Clients Say
+<!-- ## What My Clients Say
 
 ![feedback](img.png)
 
@@ -105,4 +105,4 @@ description = "Mykola Zotko | Data & AI Specialist, ML Engineer, and Open Source
 > included comments and was trivial to adapt to our existing codebase. We will
 > absolutely continue using Mykola's services for all future development on the
 > larger application and I can happily recommend him to anyone looking for help
-> on any system that requires a talented data scientist.
+> on any system that requires a talented data scientist. -->
