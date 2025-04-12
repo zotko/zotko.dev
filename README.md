@@ -11,5 +11,5 @@
    checks out the appropriate commit.
 
    ```bash
-   git submodule update
+   git submodule update --remote --merge
    ```
