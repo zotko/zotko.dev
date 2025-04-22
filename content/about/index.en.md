@@ -104,6 +104,19 @@ kitchen, and enjoy brewing a great cup of coffee :coffee:.
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!-- markdownlint-enable MD013 MD033 -->
 
+### The Linux Foundation
+
+<!-- markdownlint-disable MD013 MD033 -->
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="f36f3ee1-7350-4b30-b711-15c034572701"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+</div>
+<!-- markdownlint-enable MD013 MD033 -->
+
 ### Coursera
 
 - DeepLearning.AI: Sequences, Time Series and Prediction
