@@ -62,6 +62,12 @@ kitchen, and enjoy brewing a great cup of coffee :coffee:.
   <div
     data-iframe-width="150"
     data-iframe-height="270"
+    data-share-badge-id="24cee22c-1c70-435e-a42b-406e72aceedd"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
     data-share-badge-id="04f68a57-30fe-4737-9125-bf729e3d31da"
     data-share-badge-host="https://www.credly.com">
   </div>

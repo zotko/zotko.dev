@@ -8,7 +8,11 @@ github.com/hugomods/icons/vendors/lucide v0.3.40 h1:lNaY9NqFgBmSCUzJkw7xlcGUUWwl
 github.com/hugomods/icons/vendors/lucide v0.3.40/go.mod h1:tgIPafbcACqfXEU1fc/TEx+hdKr7m7iDHZEgAKRkDJM=
 github.com/hugomods/icons/vendors/simple-icons v1.0.61 h1:PNDI2fXu648RCh6MXdPfCzo93BBTRRxqX+BpmLwE9Vk=
 github.com/hugomods/icons/vendors/simple-icons v1.0.61/go.mod h1:x5TsryarJP5xAGVAXiZCa/7tP8+b22n5BbHfxtjX2uc=
+github.com/hugomods/icons/vendors/simple-icons v1.1.1 h1:ZM+Oi+U3glq+WuVMsoplkQpCnRLd6UU416NZCydtPvw=
+github.com/hugomods/icons/vendors/simple-icons v1.1.1/go.mod h1:ZKdcZ++UGSRnEoaVL+MTth91x4NJRIe8aJOD8oAFcRA=
 github.com/hugomods/lucide-icons v0.331.0 h1:DsQXjp+n2ymvpeWS7Lu7os51lxygsdr7ysu0H5PrDXM=
 github.com/hugomods/lucide-icons v0.331.0/go.mod h1:7loUmJrnD5umJ2sWSCb3AffZt0fYnSc1I+yBRjgHgw8=
 github.com/hugomods/simple-icons v13.19.0+incompatible h1:UT7rOPtplW6lwrnF05Up8JNw0KlkmMERYNCyssaRT+A=
 github.com/hugomods/simple-icons v13.19.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
+github.com/hugomods/simple-icons v13.21.0+incompatible h1:ux9TN7I2oOw5uz4htrdhqFyjAeY+/KYCo3LmfnOfuWI=
+github.com/hugomods/simple-icons v13.21.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
