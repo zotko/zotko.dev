@@ -111,7 +111,6 @@ der Küche und genieße einen guten Kaffee :coffee:.
     data-share-badge-host="https://www.credly.com">
   </div>
 </div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!-- markdownlint-enable MD013 MD033 -->
 
 ### The Linux Foundation
@@ -168,6 +167,20 @@ der Küche und genieße einen guten Kaffee :coffee:.
   [{{< icon "lucide/external-link" >}}](https://www.datacamp.com/completed/statement-of-accomplishment/track/dd403db3bb47859a469ab7724c0e379ae55c048d)
 - Data Analyst
   [{{< icon "lucide/external-link" >}}](https://www.datacamp.com/completed/statement-of-accomplishment/track/f9dafb966e72a0c6936924d3f328e8adc43f4bef)
+
+### Sonstige
+
+<!-- markdownlint-disable MD013 MD033 -->
+<div>
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="6eb18873-3765-4687-98c8-7fa2b147da08"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!-- markdownlint-enable MD013 MD033 -->
 
 ## Meine bevorzugten Werkzeuge
 

@@ -165,6 +165,20 @@ kitchen, and enjoy brewing a great cup of coffee :coffee:.
 - Data Analyst
   [{{< icon "lucide/external-link" >}}](https://www.datacamp.com/completed/statement-of-accomplishment/track/f9dafb966e72a0c6936924d3f328e8adc43f4bef)
 
+### Other
+
+<!-- markdownlint-disable MD013 MD033 -->
+<div>
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="6eb18873-3765-4687-98c8-7fa2b147da08"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!-- markdownlint-enable MD013 MD033 -->
+
 ## My Go-To Tools
 
 ### Programming Languages
