@@ -72,7 +72,7 @@ einen guten Kaffee :coffee:.
     data-share-badge-id="04f68a57-30fe-4737-9125-bf729e3d31da"
     data-share-badge-host="https://www.credly.com">
   </div>
-  <div
+    <div
     data-iframe-width="150"
     data-iframe-height="270"
     data-share-badge-id="3e55440b-9b1b-4ca0-97f7-1d0fcdc82620"
@@ -82,6 +82,29 @@ einen guten Kaffee :coffee:.
     data-iframe-width="150"
     data-iframe-height="270"
     data-share-badge-id="2cf1b89d-938f-42e1-839d-df11d085c662"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="d25be835-d2e2-412e-8862-55ea9dc1fd0f"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+  <div data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="eee8648d-d387-47f1-b5c1-ab2150dba5f2"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="11bbdfd4-7b02-41e9-821a-daca350ec386"
+    data-share-badge-host="https://www.credly.com">
+  </div>
+  <div
+    data-iframe-width="150"
+    data-iframe-height="270"
+    data-share-badge-id="d0a7fc6f-0b04-4ca8-bcbb-6e4685ec8ea6"
     data-share-badge-host="https://www.credly.com">
   </div>
 </div>
