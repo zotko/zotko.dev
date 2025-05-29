@@ -24,11 +24,9 @@ sports, experiment in the kitchen, and enjoy brewing a great cup of coffee
 ### Stack Overflow
 
 <!-- markdownlint-disable MD033 MD013 -->
-
 <a href="https://stackoverflow.com/users/8973620/mykola-zotko">
   <img class="nozoom" src="https://stackoverflow.com/users/flair/8973620.png" width="208" height="58" alt="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mykola Zotko at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
-
 <!-- markdownlint-enable MD033 MD013 -->
 
 ### GitHub
@@ -71,29 +69,6 @@ sports, experiment in the kitchen, and enjoy brewing a great cup of coffee
     data-share-badge-id="04f68a57-30fe-4737-9125-bf729e3d31da"
     data-share-badge-host="https://www.credly.com">
   </div>
-  <!-- <div
-    data-iframe-width="150"
-    data-iframe-height="270"
-    data-share-badge-id="d25be835-d2e2-412e-8862-55ea9dc1fd0f"
-    data-share-badge-host="https://www.credly.com">
-  </div>
-  <div data-iframe-width="150"
-    data-iframe-height="270"
-    data-share-badge-id="eee8648d-d387-47f1-b5c1-ab2150dba5f2"
-    data-share-badge-host="https://www.credly.com">
-  </div>
-  <div
-    data-iframe-width="150"
-    data-iframe-height="270"
-    data-share-badge-id="11bbdfd4-7b02-41e9-821a-daca350ec386"
-    data-share-badge-host="https://www.credly.com">
-  </div>
-  <div
-    data-iframe-width="150"
-    data-iframe-height="270"
-    data-share-badge-id="d0a7fc6f-0b04-4ca8-bcbb-6e4685ec8ea6"
-    data-share-badge-host="https://www.credly.com">
-  </div> -->
   <div
     data-iframe-width="150"
     data-iframe-height="270"
@@ -136,40 +111,23 @@ sports, experiment in the kitchen, and enjoy brewing a great cup of coffee
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="60" height="60" />
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" title="Scala" width="60" height="60" />  -->
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" title="R" width="60" height="60" /> -->
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" title="Spark" width="60" height="60" />
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" title="Airflow" width="60" height="60" /> -->
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="60" height="60" />
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="60" height="60" /> -->
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" title="Plotly" width="60" height="60" />
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" title="DynamoDB" width="60" height="60" /> -->
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="60" height="60" />
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="60" height="60" /> -->
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="60" height="60" /> -->
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" title="GCP" width="60" height="60" /> -->
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="60" height="60" />
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="60" height="60" /> -->
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="60" height="60" /> -->
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="60" height="60" /> -->
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="60" height="60" /> -->
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="60" height="60" /> -->
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pypi/pypi-original.svg" alt="PyPI" title="PyPI" width="60" height="60" /> -->
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" width="60" height="60" />
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" alt="DataGrip" title="DataGrip" width="60" height="60" /> -->
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="60" height="60" />
   <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="60" height="60" />
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" title="Anaconda" width="60" height="60" /> -->
-  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence" width="60" height="60" /> -->
 </div>
 <!-- markdownlint-enable MD013 MD033 -->
