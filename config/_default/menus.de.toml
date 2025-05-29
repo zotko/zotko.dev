@@ -4,14 +4,15 @@
  weight = 10
 
 [[main]]
- name = "Leistungen"
- pageRef = "services"
+ name = "Projekte"
+ pageRef = "projects"
  weight = 20
 
 [[main]]
- name = "Projekte"
- pageRef = "projects"
- weight = 30
+  identifier = "github2"
+  pre = "github"
+  url = "https://github.com/zotko"
+  weight = 30
 
  [[footer]]
   name = "🇺🇦 #StandWithUkraine"

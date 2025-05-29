@@ -18,10 +18,9 @@ was mich ausmacht, beruflich wie privat.
 
 Derzeit lebe ich in
 [Wächtersbach](https://maps.google.com/maps?q=Wächtersbach,Germany), einer
-kleinen Stadt in der Nähe von
-[Frankfurt am Main](https://maps.google.com/maps?q=Frankfurt,Germany). Wenn ich
-nicht code, halte ich mich mit verschiedenen Sportarten fit, experimentiere in
-der Küche und genieße einen guten Kaffee :coffee:.
+kleinen Stadt in der Nähe von Frankfurt am Main. Wenn ich nicht code, halte ich
+mich mit verschiedenen Sportarten fit, experimentiere in der Küche und genieße
+einen guten Kaffee :coffee:.
 
 ## Community
 
@@ -75,7 +74,7 @@ der Küche und genieße einen guten Kaffee :coffee:.
     data-share-badge-id="04f68a57-30fe-4737-9125-bf729e3d31da"
     data-share-badge-host="https://www.credly.com">
   </div>
-  <div
+  <!-- <div
     data-iframe-width="150"
     data-iframe-height="270"
     data-share-badge-id="d25be835-d2e2-412e-8862-55ea9dc1fd0f"
@@ -97,7 +96,7 @@ der Küche und genieße einen guten Kaffee :coffee:.
     data-iframe-height="270"
     data-share-badge-id="d0a7fc6f-0b04-4ca8-bcbb-6e4685ec8ea6"
     data-share-badge-host="https://www.credly.com">
-  </div>
+  </div> -->
   <div
     data-iframe-width="150"
     data-iframe-height="270"
@@ -113,7 +112,7 @@ der Küche und genieße einen guten Kaffee :coffee:.
 </div>
 <!-- markdownlint-enable MD013 MD033 -->
 
-### The Linux Foundation
+### Sonstige
 
 <!-- markdownlint-disable MD013 MD033 -->
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
@@ -123,55 +122,6 @@ der Küche und genieße einen guten Kaffee :coffee:.
     data-share-badge-id="f36f3ee1-7350-4b30-b711-15c034572701"
     data-share-badge-host="https://www.credly.com">
   </div>
-</div>
-<!-- markdownlint-enable MD013 MD033 -->
-
-### Coursera
-
-- DeepLearning.AI: Sequences, Time Series and Prediction
-  [{{< icon "lucide/external-link" >}}](https://www.coursera.org/account/accomplishments/verify/K6ZZ3SQSXSUM)
-- DeepLearning.AI: Advanced Computer Vision with TensorFlow
-  [{{< icon "lucide/external-link" >}}](https://www.coursera.org/account/accomplishments/verify/BS86ZGXS8JXF)
-- DeepLearning.AI: Custom and Distributed Training with TensorFlow
-  [{{< icon "lucide/external-link" >}}](https://www.coursera.org/account/accomplishments/verify/C4C2T4FJ4A38)
-- DeepLearning.AI: Custom Models, Layers, and Loss Functions with TensorFlow
-  [{{< icon "lucide/external-link" >}}](https://www.coursera.org/account/accomplishments/verify/ZN2YRKT27E9U)
-- DeepLearning.AI: Natural Language Processing with Classification and Vector
-  Spaces
-  [{{< icon "lucide/external-link" >}}](https://www.coursera.org/account/accomplishments/verify/7TWFVR9SMGHA)
-
-### Dataquest
-
-- Data Scientist in Python
-  [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/FMFCSN08KFAMYZ7UQCGW)
-- Data Analyst in Python
-  [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/JG56VXAIXLRQQPZ6OGXH)
-- Machine Learning in Python
-  [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/HD90ELSVGWNOHHOJSAM5)
-- Data Analysis and Visualization with Python
-  [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/ZCGEX04YB7SPBUYNGVBC)
-- Data Visualization with R
-  [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/8LRSYDEVDJ5K6BBGV7ZY)
-- APIs and Web Scraping with Python
-  [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/AS4Q5S22I8AFTCF49YJL)
-- Machine Learning Intermediate with Python
-  [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/NI97A2TIL9FQZLOPXHBZ)
-- Probability and Statistics with Python
-  [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/CHE32T7DJOU89BJI796V)
-- Data Cleaning with Python
-  [{{< icon "lucide/external-link" >}}](https://app.dataquest.io/view_cert/5ZBJQ6BHKWRSHWW0JMM4)
-
-### Datacamp
-
-- Associate Data Scientist
-  [{{< icon "lucide/external-link" >}}](https://www.datacamp.com/completed/statement-of-accomplishment/track/dd403db3bb47859a469ab7724c0e379ae55c048d)
-- Data Analyst
-  [{{< icon "lucide/external-link" >}}](https://www.datacamp.com/completed/statement-of-accomplishment/track/f9dafb966e72a0c6936924d3f328e8adc43f4bef)
-
-### Sonstige
-
-<!-- markdownlint-disable MD013 MD033 -->
-<div>
   <div
     data-iframe-width="150"
     data-iframe-height="270"
@@ -184,68 +134,45 @@ der Küche und genieße einen guten Kaffee :coffee:.
 
 ## Meine bevorzugten Werkzeuge
 
-### Programmiersprachen
-
-{{< icon "devicons/python/python-original" >}} Python  
-{{< icon "devicons/java/java-original" >}} Java  
-{{< icon "devicons/javascript/javascript-original" >}} Javascript  
-{{< icon "devicons/scala/scala-original" >}} Scala  
-{{< icon "devicons/r/r-original" >}} R
-
-### Datenverarbeitung & Analyse
-
-{{< icon "devicons/pandas/pandas-original" >}} Pandas  
-{{< icon "devicons/numpy/numpy-original" >}} NumPy  
-{{< icon "devicons/apachespark/apachespark-original" >}} PySpark  
-{{< icon "devicons/apacheairflow/apacheairflow-original" >}} Airflow
-
-### Machine Learning
-
-{{< icon "devicons/tensorflow/tensorflow-original" >}} TensorFlow  
-{{< icon "devicons/keras/keras-original" >}} Keras  
-{{< icon "devicons/pytorch/pytorch-original" >}} PyTorch  
-{{< icon "devicons/scikitlearn/scikitlearn-original" >}} Scikit-learn
-
-### KI & LLM
-
-{{< icon "simple-icons/langchain" >}} Langchain  
-{{< icon "simple-icons/claude" >}} Claude  
-:hugs: Hugging Face
-
-### Datenvisualisierung
-
-{{< icon "devicons/matplotlib/matplotlib-original" >}} Matplotlib  
-{{< icon "devicons/plotly/plotly-original" >}} Plotly
-
-### Datenbanken
-
-{{< icon "devicons/dynamodb/dynamodb-original" >}} DynamoDB  
-{{< icon "devicons/postgresql/postgresql-original" >}} PostgreSQL  
-{{< icon "devicons/mysql/mysql-original" >}} MySQL
-
-### Cloud-Services
-
-{{< icon "devicons/amazonwebservices/amazonwebservices-original-wordmark" >}}
-AWS  
-{{< icon "devicons/azure/azure-original" >}} Azure  
-{{< icon "devicons/googlecloud/googlecloud-original" >}} GCP  
-{{< icon "devicons/cloudflare/cloudflare-original" >}} Cloudflare
-
-### Entwicklungswerkzeuge
-
-{{< icon "devicons/linux/linux-original" >}} Linux  
-{{< icon "devicons/docker/docker-original" >}} Docker  
-{{< icon "devicons/kubernetes/kubernetes-original" >}} Kubernetes  
-{{< icon "devicons/jenkins/jenkins-original" >}} Jenkins  
-{{< icon "devicons/fastapi/fastapi-original" >}} FastAPI  
-{{< icon "devicons/flask/flask-original" >}} Flask  
-{{< icon "devicons/streamlit/streamlit-original" >}} Streamlit  
-{{< icon "devicons/pypi/pypi-original" >}} PyPI  
-{{< icon "devicons/github/github-original" >}} GitHub  
-{{< icon "devicons/gitlab/gitlab-original" >}} GitLab  
-{{< icon "devicons/pycharm/pycharm-original" >}} PyCharm  
-{{< icon "devicons/datagrip/datagrip-original" >}} DataGrip  
-{{< icon "devicons/vscode/vscode-original" >}} VS Code  
-{{< icon "devicons/jupyter/jupyter-original" >}} Jupyter  
-{{< icon "devicons/anaconda/anaconda-original" >}} Anaconda  
-{{< icon "devicons/confluence/confluence-original" >}} Confluence
+<!-- markdownlint-disable MD013 MD033 -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; align-items: flex-start;">
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="60" height="60" />
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" title="Scala" width="60" height="60" />  -->
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" title="R" width="60" height="60" /> -->
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" title="Spark" width="60" height="60" />
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" title="Airflow" width="60" height="60" /> -->
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="60" height="60" />
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="60" height="60" /> -->
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" title="Plotly" width="60" height="60" />
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" title="DynamoDB" width="60" height="60" /> -->
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="60" height="60" />
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="60" height="60" /> -->
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="60" height="60" /> -->
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" title="GCP" width="60" height="60" /> -->
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="60" height="60" />
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="60" height="60" /> -->
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="60" height="60" /> -->
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="60" height="60" /> -->
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="60" height="60" /> -->
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" width="60" height="60" /> -->
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pypi/pypi-original.svg" alt="PyPI" title="PyPI" width="60" height="60" /> -->
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" width="60" height="60" />
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" alt="DataGrip" title="DataGrip" width="60" height="60" /> -->
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="60" height="60" />
+  <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="60" height="60" />
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" title="Anaconda" width="60" height="60" /> -->
+  <!-- <img class="nozoom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" title="Confluence" width="60" height="60" /> -->
+</div>
+<!-- markdownlint-enable MD013 MD033 -->
