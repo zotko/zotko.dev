@@ -12,17 +12,13 @@ description = "Mykola Zotko | ML & Data Engineer, Open Source Developer"
 
 ## Stack Overflow
 
-- [Python: Iterate through connected components in a grayscale image](https://stackoverflow.com/a/59561214/8973620)
-- [Difference between pivot and pivot_table: Why is only pivot_table working?](https://stackoverflow.com/a/75579338/8973620)
-- [Implementing the Bron–Kerbosch algorithm in Python](https://stackoverflow.com/a/59339555/8973620)
+- [Iterating over connected components in a grayscale image using Python](https://stackoverflow.com/a/59561214/8973620)
+- [Difference between `pivot` and `pivot_table` in Pandas](https://stackoverflow.com/a/75579338/8973620)
+- [Bron–Kerbosch algorithm implementation in Python](https://stackoverflow.com/a/59339555/8973620)
 - [Adding a new column to a PySpark DataFrame](https://stackoverflow.com/a/65599110/8973620)
 
 Check out my other answers on
 [Stack Overflow](https://stackoverflow.com/users/8973620/mykola-zotko?tab=answers&sort=votes)
-
-## Kaggle
-
-- [Predicting Molecular Properties: Silver Medal :2nd_place_medal:](https://www.kaggle.com/competitions/champs-scalar-coupling)
 
 ## Research Projects
 

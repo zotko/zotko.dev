@@ -40,6 +40,14 @@ einen guten Kaffee :coffee:.
     href="https://github.com/zotko"
     nozoom=true >}}
 
+{{< figure src="https://github-readme-stats.vercel.app/api?username=zotko"
+    href="https://github.com/zotko"
+    nozoom=true >}}
+
+{{< figure src="https://github-readme-stats.vercel.app/api/top-langs/?username=zotko"
+    href="https://github.com/zotko"
+    nozoom=true >}}
+
 <!-- markdownlint-enable MD034 -->
 
 ## Zertifikate
