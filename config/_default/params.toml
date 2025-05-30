@@ -150,8 +150,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # enableTrackEvent = true
 
 [buymeacoffee]
-  # identifier = "mykola_zotko"
-  # globalWidget = true
+  identifier = "mykola_zotko"
+  globalWidget = true
   # globalWidgetMessage = "Hello"
   # globalWidgetColor = "#FFDD00"
   # globalWidgetPosition = "Right"
