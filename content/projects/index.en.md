@@ -20,5 +20,3 @@ description = "Mykola Zotko | ML & Data Engineer, Open Source Developer"
 
 Check out my other answers on
 [Stack Overflow](https://stackoverflow.com/users/8973620/mykola-zotko?tab=answers&sort=votes)
-
-## Research Projects
