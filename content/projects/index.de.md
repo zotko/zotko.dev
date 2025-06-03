@@ -21,8 +21,3 @@ description = "Mykola Zotko | ML & Data Engineer, Open-Source-Entwickler"
 Schauen Sie sich meine anderen Antworten auf
 [Stack Overflow](https://stackoverflow.com/users/8973620/mykola-zotko?tab=answers&sort=votes)
 an.
-
-## Forschungsprojekte
-
-- [Masterarbeit](https://zotko.github.io/a-star-atom-mapper/master_thesis.pdf)
-  🎓
