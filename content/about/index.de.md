@@ -138,6 +138,22 @@ einen guten Kaffee :coffee:.
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!-- markdownlint-enable MD013 MD033 -->
 
+- DeepLearning.AI: Advanced Computer Vision with TensorFlow
+  [{{< icon "lucide/file-badge" >}}](https://www.coursera.org/account/accomplishments/verify/BS86ZGXS8JXF)
+- DeepLearning.AI: Custom and Distributed Training with TensorFlow
+  [{{< icon "lucide/file-badge" >}}](https://www.coursera.org/account/accomplishments/verify/C4C2T4FJ4A38)
+- DeepLearning.AI: Custom Models, Layers, and Loss Functions with TensorFlow
+  [{{< icon "lucide/file-badge" >}}](https://www.coursera.org/account/accomplishments/verify/ZN2YRKT27E9U)
+- DeepLearning.AI: Natural Language Processing with Classification and Vector
+  Spaces
+  [{{< icon "lucide/file-badge" >}}](https://www.coursera.org/account/accomplishments/verify/7TWFVR9SMGHA)
+- DeepLearning.AI: Sequences, Time Series and Prediction
+  [{{< icon "lucide/file-badge" >}}](https://www.coursera.org/account/accomplishments/verify/K6ZZ3SQSXSUM)
+- DataQuest: Data Scientist in Python
+  [{{< icon "lucide/file-badge" >}}](https://app.dataquest.io/view_cert/FMFCSN08KFAMYZ7UQCGW)
+- DataCamp: Associate Data Scientist
+  [{{< icon "lucide/file-badge" >}}](https://www.datacamp.com/completed/statement-of-accomplishment/track/dd403db3bb47859a469ab7724c0e379ae55c048d)
+
 ## Meine bevorzugten Werkzeuge
 
 <!-- markdownlint-disable MD013 MD033 -->
