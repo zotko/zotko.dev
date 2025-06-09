@@ -6,7 +6,6 @@ description = "Mykola Zotko | ML & Data Engineer, Open-Source-Entwickler"
 ## GitHub
 
 {{< github repo="zotko/xyz2graph" >}} </br>
-{{< github repo="zotko/prefect-docker-compose-setup" >}} </br>
 {{< github repo="zotko/a-star-atom-mapper" >}} </br>
 {{< github repo="zotko/clca-atom-mapper" >}}
 
