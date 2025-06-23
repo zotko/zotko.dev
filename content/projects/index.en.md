@@ -1,13 +1,11 @@
 +++
 title = "Projects"
-description = "Mykola Zotko | ML & Data Engineer, Open Source Developer"
+description = "Mykola Zotko | Data Scientist & ML Engineer"
 +++
 
 ## GitHub
 
-{{< github repo="zotko/xyz2graph" >}} </br>
-{{< github repo="zotko/a-star-atom-mapper" >}} </br>
-{{< github repo="zotko/clca-atom-mapper" >}}
+{{< github repo="zotko/xyz2graph" >}}
 
 ## Stack Overflow
 
@@ -19,3 +17,8 @@ description = "Mykola Zotko | ML & Data Engineer, Open Source Developer"
 
 Check out my other answers on
 [Stack Overflow](https://stackoverflow.com/users/8973620/mykola-zotko?tab=answers&sort=votes)
+
+## Research Projects
+
+- :mortar_board:
+  [Master Thesis](https://zotko.github.io/a-star-atom-mapper/master_thesis.pdf)

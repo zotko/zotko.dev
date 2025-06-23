@@ -5,9 +5,7 @@ description = "Mykola Zotko | ML & Data Engineer, Open-Source-Entwickler"
 
 ## GitHub
 
-{{< github repo="zotko/xyz2graph" >}} </br>
-{{< github repo="zotko/a-star-atom-mapper" >}} </br>
-{{< github repo="zotko/clca-atom-mapper" >}}
+{{< github repo="zotko/xyz2graph" >}}
 
 ## Stack Overflow
 
@@ -20,3 +18,8 @@ description = "Mykola Zotko | ML & Data Engineer, Open-Source-Entwickler"
 Schauen Sie sich meine anderen Antworten auf
 [Stack Overflow](https://stackoverflow.com/users/8973620/mykola-zotko?tab=answers&sort=votes)
 an.
+
+## Forschungsprojekte
+
+- :mortar_board:
+  [Masterarbeit](https://zotko.github.io/a-star-atom-mapper/master_thesis.pdf)
