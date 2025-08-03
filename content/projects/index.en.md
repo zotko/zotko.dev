@@ -5,7 +5,7 @@ description = "Mykola Zotko | Data Scientist & ML Engineer"
 
 ## GitHub
 
-{{< github repo="zotko/xyz2graph" >}}
+{{< github repo="zotko/xyz2graph" showThumbnail=false >}}
 
 ## Stack Overflow
 
