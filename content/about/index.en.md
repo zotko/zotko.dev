@@ -1,6 +1,6 @@
 +++
 Title = "About"
-Description = "Mykola Zotko | Data Scientist & ML Engineer"
+Description = "Mykola Zotko | Data Scientist"
 +++
 
 {{< typeit tag=h3 >}} Hey there! {{< /typeit >}}

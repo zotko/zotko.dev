@@ -1,13 +1,11 @@
 +++
 title = "Projects"
-description = "Mykola Zotko | Data Scientist & ML Engineer"
+description = "Mykola Zotko | Data Scientist"
 +++
 
 ## GitHub
 
 {{< github repo="zotko/xyz2graph" showThumbnail=false >}}
-{{< github repo="zotko/clca-atom-mapper" showThumbnail=false >}}
-{{< github repo="zotko/a-star-atom-mapper" showThumbnail=false >}}
 
 ## Stack Overflow
 

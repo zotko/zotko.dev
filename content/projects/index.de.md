@@ -6,8 +6,6 @@ description = "Mykola Zotko | ML & Data Engineer, Open-Source-Entwickler"
 ## GitHub
 
 {{< github repo="zotko/xyz2graph" showThumbnail=false >}}
-{{< github repo="zotko/clca-atom-mapper" showThumbnail=false >}}
-{{< github repo="zotko/a-star-atom-mapper" showThumbnail=false >}}
 
 ## Stack Overflow
 
